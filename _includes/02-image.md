@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![death](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrjE6e8fuy2yMSacqffTvRFGfZ_YqJ5ugH47BVgKQt7bAQXgnig)
